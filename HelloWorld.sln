@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApi", "HelloWorldApi\HelloWorldApi.csproj", "{FDBFF18F-9EB7-4003-94A8-DC3E5EDD3DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBFF18F-9EB7-4003-94A8-DC3E5EDD3DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBFF18F-9EB7-4003-94A8-DC3E5EDD3DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBFF18F-9EB7-4003-94A8-DC3E5EDD3DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBFF18F-9EB7-4003-94A8-DC3E5EDD3DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
